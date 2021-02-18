@@ -4,7 +4,7 @@
     "occupation":"computer person",
     "description":"I like to code",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Hi, I'm Lucy! I graduated in 2021 from MIT with a Bachelor's in Computer Science and a minor in Statistics. I've interned at Microsoft",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "lucyzhang528@gmail.com",
     "address":{
@@ -69,12 +69,12 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"python",
+        "level":"80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Java",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
